@@ -1,0 +1,133 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    background-color:#d9e6f7;
+}
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: flex;     
+}
+
+input {
+    
+    background-color: #fff;
+    font-size: 18px;
+    width: 100%;
+    padding: 16px;
+    border: 1px solid #ccc;
+}
+
+h1{
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: -20px;
+}
+
+h3{
+    font-size: 14px;
+    font-weight: normal ;
+}
+h4{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: #d9e6f7;
+    
+}
+
+h5{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: #bccde9; 
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-bottom: -80px;
+}
+.botao {
+    font-size: 20px;
+    width: 112.2%;
+    padding: 16px;
+    border: 1px solid #ccc;
+    font-weight: bold ;
+    background-color: #e7e7e7;
+    margin-left: -40px;
+    margin-right: -40px;
+}
+.cadastre-se{
+    justify-content: center; 
+    align-items: center; 
+    margin-left: -47px;
+    margin-right: -47px;
+    margin-top: 10px;
+    }
+
+.link1 {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: -30px;
+    font-size: 20px;
+    color: #0048b4;
+    
+}
+.login-container{
+    margin-bottom: -50px;
+    background-color: #d9e6f7;
+}
+
+.link2 {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: -45px;
+    font-size: 28px;
+    font-weight: bold ;
+    margin-bottom: 0px;
+    color: #0048b4;
+    
+}
+
+.login-container {
+    justify-content: center; 
+    align-items: center;
+    display: center;
+    margin-top: -50px;
+    padding: 50px;
+    background-color: #fff;
+}
+
+.principal{
+    
+    position: relative;
+    padding: 50px;
+    margin: -20px;
+    margin-left: -47px;
+    margin-right: -47px;
+    margin-bottom: -18px;
+}
+
+.form-group{
+    margin-left: -40px;
+    margin-right: -40px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.form-group2{
+    margin-left: -40px;
+    margin-right: -40px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    
+}
+
